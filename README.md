@@ -1,6 +1,6 @@
 # Sujeet Kumar - Portfolio 
 
-A React-based portfolio designed to present my professional story through projects, skills, certifications, and career achievements.
+A React-based portfolio designed to present my professional story through projects, skills and career achievements.
 
 ## Features
 
@@ -20,11 +20,6 @@ A React-based portfolio designed to present my professional story through projec
 
 ## Local Development
 
-1. Clone the repository
-   ```
-   git clone https://github.com/adityaSrivastava29/adityasrivastava29.github.io.git
-   cd adityasrivastava29.github.io
-   ```
 
 2. Install dependencies
    ```
@@ -38,13 +33,3 @@ A React-based portfolio designed to present my professional story through projec
 
 4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Deployment
-
-This portfolio is automatically deployed to GitHub Pages using GitHub Actions whenever changes are pushed to the master branch.
-
-## License
-
-MIT
-
-## Support
-If you like this portfolio website, please consider giving it a ⭐ on GitHub! Your support is greatly appreciated.
